@@ -1,8 +1,11 @@
 # poo2
 Projeto desenvolvido na matéria de POO Universidade São Francisco Campinas
+
 Alunos: 
+
 Danilo Ramos Torres | 202105838  
 Lukas Rodrigues de Almeida | 202109235
+
 Docente: José Matias Lemes Filho
 
 O "Jogo de Adivinhação de Animais" é uma aplicação Java com uma interface gráfica simples, envolvente e amigável. O jogo desafia os jogadores a pensarem em um animal de uma lista de animais predefinidos, respondendo a uma série de perguntas com "S" para Sim ou "N" para Não. Adicionalmente, no início de cada sessão, é exibido o repertório completo de animais disponíveis, fornecendo aos jogadores uma visão geral das opções para adivinhação.
